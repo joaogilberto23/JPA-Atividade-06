@@ -10,7 +10,7 @@ public interface IDAO {
 	
 	public void removeByObject(IEntity pEntity);
 	
-	public IEntity listByPrimaryKey(Class<?> pClass, Object pPrimaryKey);
+	public IEntity listByPrimaryKey(Class pClass, Object pPrimaryKey);
 	
 	public IEntity listByObject(IEntity pEntity);
 }

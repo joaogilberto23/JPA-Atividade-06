@@ -28,8 +28,8 @@ public class Testes {
 		endereco.setBairro("Bonsucesso");
 		endereco.setCidade("Olinda");
 		endereco.setUf("PE");
-		endereco.setCep(53240150);	
-		
+		endereco.setCep(53240150);
+				
 		// act
 		
 		us.add(usuario);
